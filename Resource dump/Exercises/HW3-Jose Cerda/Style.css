@@ -1,0 +1,60 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #668cff;
+}
+
+h2 {
+  text-align: center;
+  font-size: 15px;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #002699;
+}
+
+h5 {
+    text-align: center;
+    font-size: 150px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #668cff;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+    font-family: Verdana, Tahoma, sans-serif;
+  }
+  
+/* visited link */
+a:visited {
+    color: navy;
+    font-family: Verdana, Tahoma, sans-serif;
+  }
+  
+/* mouse over link */
+a:hover {
+    color: crimson;
+    font-family: Verdana, Tahoma, sans-serif;
+  }
+  
+/* selected link */
+a:active {
+    color: yellow;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
